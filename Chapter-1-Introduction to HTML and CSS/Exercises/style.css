@@ -53,7 +53,7 @@ img {
 
 img:hover {
 
-    transform: scale(1.2);
+    transform: scale(1.1);
     
 }
 
@@ -68,7 +68,7 @@ h2 {
 
     font-size: larger;
 
-    color: #FFD1DA;
+    color: #835858;
 
 }
 
