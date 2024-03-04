@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+    
+    font-family: "Gaegu", sans-serif;
+
+}
+
+body {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    min-height: 115vh;
+
+    background: #F9F5F6;
+
+}
+
+.box-container {
+
+    border-radius: 10px;
+
+    background: #FFF;
+
+    padding: 50px 20px;
+
+
+}
+
+img {
+
+    max-width: 600px;
+
+    max-width: 330px;
+
+    margin-left: 200px;
+
+    filter: drop-shadow(0px 10px 50px #FFC0D3);
+
+    transition: 0.7s;
+
+}
+
+img:hover {
+
+    transform: scale(1.2);
+    
+}
+
+.wrapper {
+
+    margin: 150px auto;
+
+    width: 50%;
+}
+
+h2 {
+
+    font-size: larger;
+
+    color: #FFD1DA;
+
+}
+
+.text-box {
+    
+    color: #000;
+    
+    font-size: 15px;
+
+}
