@@ -1,0 +1,19 @@
+body {
+
+    background: #F9F5F6;
+
+}
+
+.video {
+
+    
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    min-height: 150vh;
+
+
+}
